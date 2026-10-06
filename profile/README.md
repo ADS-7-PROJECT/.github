@@ -26,5 +26,5 @@ kernel integration is the next major phase.
 
 | Repo | Purpose |
 |---|---|
-| `ads7-core` | The core C library |
-| `ads7-docs` | Design documentation and architecture |
+| `ads-7-core` | The core C library |
+| `ads-7-docs` | Design documentation and architecture |
