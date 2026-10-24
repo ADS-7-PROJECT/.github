@@ -28,3 +28,6 @@ kernel integration is the next major phase.
 |---|---|
 | `ads-7-core` | The core C library |
 | `ads-7-docs` | Design documentation and architecture |
+| `ads-7-fst` | ADS-7-FST is the CORE and the secondary tools |
+
+
